@@ -116,3 +116,7 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 ## License
 
 MIT
+
+## Documentation
+
+For more detailed documentation, please refer to the [docs/README.md](docs/README.md) file.
